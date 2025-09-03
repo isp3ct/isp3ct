@@ -22,20 +22,6 @@ Sou um desenvolvedor backend apaixonado por criar soluções automatizadas, APIs
 
 ---
 
-### 📦 Projeto Destaque: Inventory Control App
-Um sistema completo de controle de estoque com:
-
-- React 19 + Node.js/Express + SQLite + Prisma
-- Autenticação JWT com bcrypt
-- Sistema de usuários com múltiplas roles
-- Movimentações de estoque com auditoria e logs
-- Relatórios com gráficos (Recharts) e exportação CSV
-- Validação com Zod e arquitetura escalável
-
-📁 [Veja o projeto no repositório](https://github.com/isp3ct/inventory-control-app)
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=isp3ct&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
